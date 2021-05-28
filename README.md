@@ -1,7 +1,7 @@
 # LeverX_1
 Tutorial how to create .jar file:
 
-cd C:/LeverX/LeverX_1/LeverX_1/src
+cd C:/LeverX/LeverX_1/LeverX_1/src/com/LeverX
 
 javac Main.java
 
