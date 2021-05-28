@@ -1,4 +1,4 @@
-package LeverX;
+package com.LeverX;
 
 public class Main {
 
