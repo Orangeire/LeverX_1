@@ -17,4 +17,4 @@ The result will be: Hello, Yuriy!
 
 Tutorial how to import a new lib: 
 
-javac -d bin -classpath bin:libs/apache-commons.jar -sourcepath src src/LeverX/Main.java
+javac -d bin -classpath bin:libs/apache-commons.jar -sourcepath src src/com/LeverX/Main.java
